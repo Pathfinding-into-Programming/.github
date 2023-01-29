@@ -24,6 +24,10 @@ here</a>
 
 1. **Python:** 29-01-2023
 
+## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px"> Organization Statistics 
+
+![](https://komarev.com/ghpvc/?username=Pathfinding-into-Programming&color=1a212e&style=flat&label=profile+views)
+
 ## <img src="https://cdn3.emoji.gg/emojis/1292-person-talking.png" width="28px" height="28px"> Contact
 
 you can contact me via [discord](https://discordapp.com/users/593036316980019220) or [gmail](mailto:rev.toady.py@gmail.com)
