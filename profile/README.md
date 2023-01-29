@@ -29,7 +29,7 @@ here</a>
 you can contact me via [discord](https://discordapp.com/users/593036316980019220) or [gmail](mailto:rev.toady.py@gmail.com)
 
 <a href="https://discordapp.com/users/593036316980019220">
-<img src="assets/discord.png" 
+<img src="profile/assets/discord.png" 
     alt= "discord" style="
     width: 32px;
     display: inline-block;
@@ -38,7 +38,7 @@ you can contact me via [discord](https://discordapp.com/users/593036316980019220
     class="fab fa-discord fa-lg">
 </a>
 <a href="mailto:rev.toady.py@gmail.com">
-    <img src="assets/gmail.png" 
+    <img src="profile/assets/gmail.png" 
     alt= "gmail" style="
     width: 32px;
     display: inline-block;
