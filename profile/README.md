@@ -14,9 +14,7 @@ Pathfinding Algorithm</a> in every language that I decide to try
 out. There is no fixed time constraint that I am limiting myself 
 to but I will hopefully have tried out atleast one language per month.
 <br><br>
-You can find the website <a class='underline' 
-href='pathfinding-into-programming.github.io/'>
-here</a>
+You can find the website [here](https://pathfinding-into-programming.github.io/)
 
 ## <img src="https://cdn3.emoji.gg/emojis/7809-pepe-noted.gif" width="28x" height="28px"> Languages Explored till now
 
