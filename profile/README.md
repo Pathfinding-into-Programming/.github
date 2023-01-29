@@ -28,12 +28,14 @@ here</a>
 
 ![](https://komarev.com/ghpvc/?username=Pathfinding-into-Programming&color=1a212e&style=flat&label=profile+views)
 
+<!--
 <p align=center>
 <a href="https://github.com/Pathfinding-into-Programming">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pathfinding-into-Programming&show_icons=true&include_all_commits=true&count_private=true$show_icons=true&&hide_border=true&bg_color=1a212e&title_color=ffffff&icon_color=ffffff&text_color=ffffff" alt="Statistics" />
 </a>
 </p>
-  
+-->
+
 ## <img src="https://cdn3.emoji.gg/emojis/1292-person-talking.png" width="28px" height="28px"> Contact
 
 you can contact me via [discord](https://discordapp.com/users/593036316980019220) or [gmail](mailto:rev.toady.py@gmail.com)
