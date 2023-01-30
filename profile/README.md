@@ -20,7 +20,7 @@ You can find the website [here](https://pathfinding-into-programming.github.io/)
 
 <a href= "https://en.wikipedia.org/wiki/Python_(programming_language)"><img src= "https://img.shields.io/badge/python-1a212e?style=for-the-badge&logo=python&logoColor=white"></a>
 
-1. **Python:** 29-01-2023
+1. [**Python:**](https://github.com/Pathfinding-into-Programming/pathfinding-python) 29-01-2023
 
 <!--
 ## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px"> Organization Statistics 
